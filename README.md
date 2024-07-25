@@ -1,10 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on NUXT JS.<br>🌱 I’m currently learning CRUD Operations.<br>💬 Ask me about Web-Development.<br>⚡   Life fact  : Veer Bhogya Vasundhara
 
-# 👩‍💻 Work Experience:
-<img src="https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-dsc/contentbuilder/logo_dark_stacked_5giak2X.svg" class="svg" height="200px" width="200px" alt="Google Developer Student Clubs logo">
-Web Devlopment-Team GDSC from Mar-2k23.
-
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=7_Prince)
 
 ## 🌐 Socials:
